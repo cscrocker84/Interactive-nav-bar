@@ -1,0 +1,30 @@
+body {
+  border: 10px;
+}
+
+.container {
+  display: flex;
+  background-color: slategray;
+}
+
+.nav {
+  /*display: flex;*/
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav li {
+  padding: 0, 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
